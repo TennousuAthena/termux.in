@@ -2,6 +2,7 @@
 import os, opencc
 
 def convert_file(filename):
+    print("Converting: "+ filename)
     converter = opencc.OpenCC('s2t.json')
     with open(filename,'r+') as f:
         s=f.read()
