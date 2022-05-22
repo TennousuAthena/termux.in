@@ -45,11 +45,11 @@ extra:
 
   alternate:
     - name: 简体中文
-      link: http://termux.in/
+      link: https://zh.termux.in/
       lang: zh
 
     - name: 繁體中文
-      link: http://zh-hant.termux.in/
+      link: https://zh-hant.termux.in/
       lang: zh-Hant
 
     # - name: English
