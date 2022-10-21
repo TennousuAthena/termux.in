@@ -1,18 +1,24 @@
-# 欢迎
+Termux
+Termux is an Android terminal emulator and Linux environment app that works directly with no rooting or setup required. A minimal base system is installed automatically - additional packages are available using the APT package manager.
 
-Termux 是一款运行于 Android 系统的开源终端模拟器。该软件提供了 Linux 环境，即使设备不具备 root 权限也可使用。通过自带的包管理器（pkg、 apt），Termux 可以安装许多现代化的开发和系统维护工具，例如 zsh、Python、Ruby、NodeJS、MySQL 等软件。
+Get it on Github Get it on F-Droid
+Secure. Access remote servers using the ssh client from OpenSSH. Termux combines standard packages with accurate terminal emulation in a beautiful open source solution.
 
-## 下载
-### 从清华源镜像（v118）
+Feature packed. Take your pick between Bash, fish or Zsh and nano, Emacs or Vim. Grep through your SMS inbox. Access API endpoints with curl and use rsync to store backups of your contact list on a remote server.
 
-[![使用清华源镜像](https://mirrors.tuna.tsinghua.edu.cn/static/img/logo-small.png)](https://mirrors.tuna.tsinghua.edu.cn/fdroid/repo/com.termux_118.apk)
+Customizable. Install what you want through the APT package management system known from Debian and Ubuntu GNU/Linux. Why not start with installing Git and syncing your dotfiles?
 
-### 从Github Release
-<a href="https://github.com/termux/termux-app/releases"><img src="images/get-it-on-github.png" width="256px"></a>
+Explorable. Have you ever sat on a bus and wondered exactly which arguments tar accepts? Packages available in Termux are the same as those on Mac and Linux - install man pages on your phone and read them in one session while experimenting with them in another.
 
-### 从F-droid
-<a href="https://f-droid.org/zh_Hans/packages/com.termux/"><img src="images/get-it-on-fdroid.png" width="256px"></a>
+Portable - With batteries included. Can you imagine a more powerful yet elegant pocket calculator than a readline-powered Python console? Up-to-date versions of Perl, Python, Ruby and Node.js are all available.
 
-??? warning "（不推荐）从应用商店"
-    <a href="https://play.google.com/store/apps/details?id=com.termux"><img src="images/google-play-badge.png" width="256px"></a>
-    版本较低
+Ready to scale up. Connect a Bluetooth keyboard and hook up your device to an external display if you need to - Termux supports keyboard shortcuts and has full mouse support.
+
+Tinkerable. Develop by compiling Go, Rust, Swift, or C files with Clang and build your own projects with CMake and pkg-config. Both lldb/GDB and strace are available if you get stuck and need to debug.
+
+Powered by shivam
+Termux
+Site Source
+ termux
+ termuxdevs
+Terminal emulator and Linux environment for Android.
